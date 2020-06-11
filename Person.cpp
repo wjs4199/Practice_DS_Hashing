@@ -21,3 +21,4 @@ Person * MakePersonData(int ssn, char *name, char* addr){
   strcpy(newP->addr,addr);
   return newP;
 }
+
